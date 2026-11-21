@@ -10,8 +10,8 @@ Tiene tres pantallas: inicio, juego y final con el puntaje.
 
 ## Contenido
 
-- `OperacionMeepMeep.aia`: proyecto de App Inventor.
-- `PROYECTO EN APPINVENTOR 2025.pdf`: guía paso a paso del desarrollo.
+- `operacion-meep-meep.aia`: proyecto de App Inventor.
+- `proyecto-en-appinventor-2025.pdf`: guía paso a paso del desarrollo.
 - `recursos/`: imágenes y sonidos del juego.
 
 ## Cómo abrirlo
