@@ -1,28 +1,21 @@
-# 🏃‍♂️ Operación ¡Meep Meep!
-## Proyecto Diplomatura en Deportes Electrónicos 2025
-Este repositorio contiene el proyecto **Operación ¡Meep Meep!**, desarrollado en el marco del **Módulo 6: Juegos Serios** de la Diplomatura en Deportes Electrónicos de la UNLP. La aplicación fue creada con **MIT AppInventor** para dispositivos móviles Android.
+# Operación Meep Meep
 
-## 🎮 Descripción del juego
+Minijuego para Android desarrollado con MIT App Inventor en el Módulo 6 (Juegos Serios) de la Diplomatura en Deportes Electrónicos de la UNLP, edición 2025.
 
-El objetivo del minijuego es atrapar al Correcaminos, que se mueve de forma aleatoria en la pantalla. Para lograrlo, el jugador controla al Coyote mediante botones direccionales (“↑”, “↓”, “→”, “←”). Pero cuidado: ¡si el Coyote toca los bordes de la pantalla, se pierde el juego!
+## El juego
 
-La velocidad del Coyote aumenta cada vez que se atrapa al Correcaminos, lo que incrementa la dificultad del juego.
+El jugador controla al Coyote con botones direccionales para atrapar al Correcaminos, que se mueve al azar por la pantalla. Si el Coyote toca un borde, la partida termina. Cada captura aumenta la velocidad del Coyote.
 
-## 🖥️ Pantallas del juego
+Tiene tres pantallas: inicio, juego y final con el puntaje.
 
-1. **Pantalla de inicio**: Presentación del minijuego.
-2. **Pantalla de juego**: Interacción con los personajes y controles.
-3. **Pantalla final**: Muestra del puntaje y opción para volver a jugar.
+## Contenido
 
-## 📂 Contenido del repositorio
+- `OperacionMeepMeep.aia`: proyecto de App Inventor.
+- `PROYECTO EN APPINVENTOR 2025.pdf`: guía paso a paso del desarrollo.
+- `recursos/`: imágenes y sonidos del juego.
 
-- `OperacionMeepMeep.aia`: Archivo fuente del proyecto para importar en MIT AppInventor.
-- `instrucciones/`: Guía original con el paso a paso para el desarrollo.
-- `recursos/`: Carpeta con imágenes, sonidos u otros materiales utilizados.
+## Cómo abrirlo
 
-## 🚀 Cómo usar este proyecto
-
-1. Ingresá a [MIT AppInventor](https://appinventor.mit.edu/).
-2. Importá el archivo `.aia` desde este repositorio.
-3. Ejecutalo en un emulador o dispositivo Android físico.
- 
+1. Entrar a [MIT App Inventor](https://appinventor.mit.edu/).
+2. Importar el archivo `.aia` desde *Projects > Import project (.aia)*.
+3. Ejecutarlo en el emulador o en un dispositivo Android con MIT AI2 Companion.
